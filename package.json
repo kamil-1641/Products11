@@ -1,0 +1,5 @@
+{
+  "name": "Browser_Paralel_Computing",
+  "description": "Make easy use of multithreading capabilities available on most systems to accelerate your client's web browsing experience with this paralel computing library.",
+  "version": "1.11.1"
+}
