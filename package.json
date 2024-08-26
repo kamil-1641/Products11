@@ -1,5 +1,5 @@
 {
-  "name": "Browser_Paralel_Computing",
-  "description": "Make easy use of multithreading capabilities available on most systems to accelerate your client's web browsing experience with this paralel computing library.",
-  "version": "1.11.1"
+  "name": "External_Storage_Integrity_Check",
+  "description": "Ensure your external drives had not undergone data loss by making checksums for later verification as you transfer files.",
+  "version": "2.11.1"
 }
