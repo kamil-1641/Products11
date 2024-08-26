@@ -1,5 +1,5 @@
 {
-  "name": "External_Storage_Integrity_Check",
-  "description": "Ensure your external drives had not undergone data loss by making checksums for later verification as you transfer files.",
-  "version": "2.11.1"
+  "name": "Storage_Checksum_Verification",
+  "description": "Ensure your drives had not undergone data loss by making checksums for later verification as you read and write files.",
+  "version": "3.11.1"
 }
