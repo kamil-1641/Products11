@@ -1,5 +1,5 @@
 {
-  "name": "Alphanumeric_Converter",
-  "description": "Trivially convert back and forth between alphabetic and numeric values.",
-  "version": "5.11.1"
+  "name": "Mixed_Radix_Calculator",
+  "description": "Easily perform calculations with numerical bases defined as series or functions rather than constants.",
+  "version": "6.11.1"
 }
